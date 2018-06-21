@@ -1,4 +1,4 @@
-# smela
+# test
 
 [![GitHub version](https://badge.fury.io/gh/SMelanko%2Fsmela.svg)](https://badge.fury.io/gh/SMelanko%2Fsmela)
 [![Build Status: Linux, OSX](https://travis-ci.org/SMelanko/smela.svg?branch=master)](https://travis-ci.org/SMelanko/smela)
@@ -10,19 +10,3 @@
        src="https://scan.coverity.com/projects/15162/badge.svg"/>
 </a>
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/39b19b9586324a1a98f5151d5dcef214)](https://www.codacy.com/app/SMelanko/smela?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SMelanko/smela&amp;utm_campaign=Badge_Grade)
-
-# smela icon test
-
-<p align="center">
-  <img width="156" height="156" src="logo.png">
-</p>
-
-<p align="center">
-  <img width="156" height="156" src="logo-2.png">
-</p>
-
-img: color (#C59B16)
-
-txt: color (#1640C5), Baloo Tamma
-
-[source](https://www.designevo.com)
